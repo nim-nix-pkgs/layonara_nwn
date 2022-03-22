@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-layonara_nwn-master.flake = false;
+  inputs.src-layonara_nwn-master.ref   = "refs/heads/master";
   inputs.src-layonara_nwn-master.owner = "plenarius";
-  inputs.src-layonara_nwn-master.ref   = "master";
   inputs.src-layonara_nwn-master.repo  = "layonara_nwn";
   inputs.src-layonara_nwn-master.type  = "github";
   
