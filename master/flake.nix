@@ -11,6 +11,7 @@
   inputs.src-layonara_nwn-master.ref   = "refs/heads/master";
   inputs.src-layonara_nwn-master.owner = "plenarius";
   inputs.src-layonara_nwn-master.repo  = "layonara_nwn";
+  inputs.src-layonara_nwn-master.dir   = "";
   inputs.src-layonara_nwn-master.type  = "github";
   
   inputs."neverwinter".owner = "nim-nix-pkgs";
