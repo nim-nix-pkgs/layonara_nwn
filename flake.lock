@@ -128,11 +128,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656303316,
-        "narHash": "sha256-oufC7Ro4MIm543kCTDziU7ylkX+hBeRb4iq/n48Tv/g=",
+        "lastModified": 1656748754,
+        "narHash": "sha256-btyzQxkoRAFGD9FySS6gdW9zf2PqsRo3nkA8DMecT08=",
         "owner": "nim-nix-pkgs",
         "repo": "layonara_nwn",
-        "rev": "6be3b616f6cef0b7000760b415d65af3fcbd32af",
+        "rev": "9696b240dae0a5930c5f871482e981d951727866",
         "type": "github"
       },
       "original": {
